@@ -1,0 +1,2 @@
+Dataset : https://www.kaggle.com/datasets/irkaal/english-premier-league-results
+Deployment : https://huggingface.co/spaces/Flickerjet/EPL_Result_Prediction
