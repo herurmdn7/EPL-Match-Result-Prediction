@@ -1,7 +1,7 @@
 # English Premier League Classification Model
 
 ## Table of Contents
-1. [Project Overview](#project-overview)
+1. [Project Overview](#Project-Overview)
 2. [Project Structure](#project-structure)
 3. [Installation and Setup](#installation-and-setup)
 4. [Data](#data)
